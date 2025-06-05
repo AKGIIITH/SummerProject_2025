@@ -10,6 +10,7 @@ https://www.anthropic.com/research/tracing-thoughts-language-model
 
 ### Update 3: Started ARENA Tutorial from [25 May 2025-30 May 2025] : Arena Tuorial 1 only, 4 Remaining
 
-### Update 4: Completed Reading Paper: https://www.lesswrong.com/posts/X26ksz4p3wSyycKNB/gears-level-mental-models-of-transformer-interpretability#Residual_Stream_as_Output_Accumulation [5 June 2025]
+### Update 4: Completed Reading Paper: 
+https://www.lesswrong.com/posts/X26ksz4p3wSyycKNB/gears-level-mental-models-of-transformer-interpretability#Residual_Stream_as_Output_Accumulation [5 June 2025]
 
 
